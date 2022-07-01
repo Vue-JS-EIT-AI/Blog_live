@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/posts/-N5nJtTD3JXBAK7myLOS", {data:[{loadedPosts:{id:"1",title:"first zahid --N5nJtTD3JXBAK7myLOS",PreviewText:" excel it ai",thumbnail:"img\u002FimageLand.png",author:"zahid",updatedDate:new Date(1656606123769),content:"some dummy text which is not the PreviewText"}}],fetch:{},mutations:[]});
