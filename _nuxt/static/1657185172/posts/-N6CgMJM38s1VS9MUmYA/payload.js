@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-N6CgMJM38s1VS9MUmYA", {data:[{loadedPosts:{PreviewText:"furniture is awesome",author:"bppshop",content:"",thumbnail:"https:\u002F\u002Fbppshops.com\u002Ffrontend\u002Fassets\u002Fimages\u002Fbpp_shop_main\u002Ffurniture.webp",title:"furniture",updatedDate:"2022-07-05T09:29:17.024Z"}}],fetch:{},mutations:[]});

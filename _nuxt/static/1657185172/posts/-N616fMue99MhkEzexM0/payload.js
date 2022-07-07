@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-N616fMue99MhkEzexM0", (function(a){return {data:[{loadedPosts:{PreviewText:"some changes",author:a,content:a,id:"-N616fMue99MhkEzexM0",thumbnail:"https:\u002F\u002Fbppshops.com\u002Ffrontend\u002Fassets\u002Fimages\u002Fbpp_shop_main\u002Fbaby_care.webp",title:"Baby care",updatedDate:"2022-07-03T03:33:10.557Z"}}],fetch:{},mutations:[]}}("asd")));

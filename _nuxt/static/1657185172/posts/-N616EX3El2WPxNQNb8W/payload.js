@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-N616EX3El2WPxNQNb8W", {data:[{loadedPosts:{PreviewText:"good  quality product . Buy it .",author:"bppshops",content:"sd",id:"-N616EX3El2WPxNQNb8W",thumbnail:"https:\u002F\u002Fbppshops.com\u002Ffrontend\u002Fassets\u002Fimages\u002Fbpp_shop_main\u002Felectronics.webp",title:"electronics",updatedDate:"2022-07-03T03:31:16.509Z"}}],fetch:{},mutations:[]});

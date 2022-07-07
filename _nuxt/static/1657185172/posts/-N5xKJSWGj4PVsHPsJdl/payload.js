@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-N5xKJSWGj4PVsHPsJdl", (function(a){return {data:[{loadedPosts:{PreviewText:"changes",author:a,content:"good quality bppshops",id:"-N5xKJSWGj4PVsHPsJdl",thumbnail:"https:\u002F\u002Fbppshops.com\u002Ffrontend\u002Fassets\u002Fimages\u002Fbpp_shop_main\u002Ffashion.webp",title:a,updatedDate:"2022-07-02T05:14:41.734Z"}}],fetch:{},mutations:[]}}("Bppshops")));
