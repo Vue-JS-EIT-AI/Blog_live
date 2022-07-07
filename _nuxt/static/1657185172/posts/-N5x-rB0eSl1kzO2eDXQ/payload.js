@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-N5x-rB0eSl1kzO2eDXQ", (function(a){return {data:[{loadedPosts:{PreviewText:a,author:"bppshop",content:a,thumbnail:"https:\u002F\u002Fbppshops.com\u002Ffrontend\u002Fassets\u002Fimages\u002Fbpp_shop_main\u002Fislamic_product.webp",title:"Islamic product",updatedDate:"2022-07-02T03:45:18.504Z"}}],fetch:{},mutations:[]}}("good")));

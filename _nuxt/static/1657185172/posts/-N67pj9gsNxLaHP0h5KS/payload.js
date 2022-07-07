@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/-N67pj9gsNxLaHP0h5KS", (function(a){return {data:[{loadedPosts:{PreviewText:a,author:"zahid",content:a,thumbnail:"https:\u002F\u002Fbppshops.com\u002Ffrontend\u002Fassets\u002Fimages\u002Fbpp_shop_main\u002Fcosmetic.webp",title:"Bpppshop -cosmetics",updatedDate:"2022-07-04T10:52:07.567Z"}}],fetch:{},mutations:[]}}("cosmetics")));
